@@ -30,3 +30,4 @@ Tέλος να προσθέσω ότι για αρχάριο χρήστη δεν
 
 ### Παραδοτέο 2
 Η πρώτη μου προσπάθεια να εγκαταστήσω τον Archlinux ήταν στο laptop μου με dual boot όμως απέτυχε ακολούθησα πιστά τις οδηγίες εγκατάστασης όπως περιγράφονται στο https://wiki.archlinux.org/title/Installation_guide ή εγκατάσταση πήγε καλά μέχρι το σημείο που ήταν να κάνω login όπου έβαζα το σωστό username και κωδικό και παρόλα αυτά μου έβγαζε αποτυχία. Στην συνέχεια διαβάζοντας κάποια forum ακολούθησα τις οδηγίες από τον οδηγό του Archlinux (https://wiki.archlinux.org/title/Security#Passwords) πλην όμως δεν διορθώθηκε το πρόβλημα. Προσωρινά το εγκατέστησα σε Virtual Box. 
+Οι εντολές: neofetch και journal -b στο [link](https://asciinema.org/a/wpwnUQYAYzuYSLdJFOByt4gDO)
