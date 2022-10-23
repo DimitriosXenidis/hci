@@ -41,5 +41,10 @@ Tέλος να προσθέσω ότι για αρχάριο χρήστη δεν
 Πραγματοποιήσαμε δια ζώσης συναντήσεις και online μέσα στο κανάλι μας στο Discord.
 
 Από εμάς έγιναν οι εξής επιλογές:
-[Το xbox adaptive controller](accessibility-hardware.jpg) και [Το ps5 με τα accessibility features]( ps5-menu-accessibility.jpg)
+1. Το xbox adaptive controller ![Το xbox adaptive controller](https://user-images.githubusercontent.com/114947797/197394366-e4578b5c-8565-4b06-9558-77700812d485.png) 
+
+
+και 2. Το ps5 με τα accessibility features  
+![Το ps5 με τα accessibility features](https://user-images.githubusercontent.com/114947797/197394531-5bb17900-95d9-4cd9-b410-769725d4232c.png)
+
 έγιναν fork τα σχετικά αποθετήρια προς τον οργανισμό μας και στην συνέχεια από τον οργανισμό προς τα μέλη της ομάδας.
