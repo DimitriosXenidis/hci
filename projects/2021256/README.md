@@ -9,7 +9,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Παραδοτέο 1](https://github.com/courses-ionio/help/discussions/874) |  |
 | 2 | Άσκηση γραμμής εντολών (linux install) |[Παραδοτέο 2](https://github.com/courses-ionio/help/discussions/1134) |  |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[Παραδοτέο 3](https://github.com/courses-ionio/help/discussions/1191) |  |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) |[Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1297) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -50,3 +50,20 @@ Tέλος να προσθέσω ότι για αρχάριο χρήστη δεν
 ![Το ps5 με τα accessibility features](https://user-images.githubusercontent.com/114947797/197394531-5bb17900-95d9-4cd9-b410-769725d4232c.png)
 
 έγιναν fork τα σχετικά αποθετήρια προς τον οργανισμό μας και στην συνέχεια από τον οργανισμό προς τα μέλη της ομάδας.
+
+### Παραδοτέο 4
+
+Για το παραδοτέο πραγματοποιήθηκαν οι ασκήσεις check the weather και fetch information από το warm up.
+1η άσκηση η καταγραφή του καιρού δύο περιοχών, της Ελλάδας και του Τόκυο,
+με τη βοήθεια του εργαλείου curl.
+Η καταγραφή της άσκησης παρακάτω:
+
+
+<a href="https://asciinema.org/a/mCFOJa7tNHKjdGPK7QxNfQfNE" target="_blank"><img src="https://asciinema.org/a/mCFOJa7tNHKjdGPK7QxNfQfNE.svg" /></a>
+
+
+2η άσκηση οι συναλλαγματικές ισοτιμίες κρυπτονομισμάτων παρακάτω:
+
+
+<a href="https://asciinema.org/a/8iA8mukTSvbUqeputopiHnXMr" target="_blank"><img src="https://asciinema.org/a/8iA8mukTSvbUqeputopiHnXMr.svg" /></a>
+
