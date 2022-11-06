@@ -29,27 +29,36 @@ Tέλος να προσθέσω ότι για αρχάριο χρήστη δεν
 Είσοδος σε ομάδα: [Max-Tac-Unit](https://github.com/Max-Tac-Unit)
 
 ### Παραδοτέο 2
-Η πρώτη μου προσπάθεια να εγκαταστήσω τον Archlinux ήταν στο laptop μου με dual boot όμως απέτυχε ακολούθησα πιστά τις οδηγίες εγκατάστασης όπως περιγράφονται στο https://wiki.archlinux.org/title/Installation_guide ή εγκατάσταση πήγε καλά μέχρι το σημείο που ήταν να κάνω login όπου έβαζα το σωστό username και κωδικό και παρόλα αυτά μου έβγαζε αποτυχία. Στην συνέχεια διαβάζοντας κάποια forum ακολούθησα τις οδηγίες από τον οδηγό του Archlinux https://wiki.archlinux.org/title/Security#Passwords πλην όμως δεν διορθώθηκε το πρόβλημα. Προσωρινά το εγκατέστησα σε Virtual Box.
+Η πρώτη μου προσπάθεια να εγκαταστήσω τον Archlinux ήταν στο laptop μου με dual boot όμως απέτυχε ακολούθησα πιστά τις οδηγίες εγκατάστασης όπως περιγράφονται στο [wiki.archlinux](https://wiki.archlinux.org/title/Installation_guide) ή εγκατάσταση πήγε καλά μέχρι το σημείο που ήταν να κάνω login όπου έβαζα το σωστό username και κωδικό και παρόλα αυτά μου έβγαζε αποτυχία. Στην συνέχεια διαβάζοντας κάποια forum ακολούθησα τις οδηγίες από τον οδηγό του Archlinux [wiki.archlinux](https://wiki.archlinux.org/title/Security#Passwords) πλην όμως το πρόβλημα παρέμεινε. Προσωρινά το εγκατέστησα σε Virtual Box.Στη συνέχεια πραγματοποιήθηκε εγκατάσταση σε USB 3.
 
 
 Οι εντολές: [neofetch και journal -b στο link](https://asciinema.org/a/wpwnUQYAYzuYSLdJFOByt4gDO)
 
 ### Παραδοτέο 3 
 
-Θέμα: accessibility in gaming
+Θέμα: accessibility 
  
-Με την ομάδα μου [Max-Tac-Unit](https://github.com/Max-Tac-Unit) ασχοληθήκαμε με την προσβασιμότητα στο gaming σε χρήστες
+Με την ομάδα μου [Max-Tac-Unit](https://github.com/Max-Tac-Unit) ασχοληθήκαμε με την προσβασιμότητα σε χρήστες
 με διάφορα είδη αναπηρίας.
 Πραγματοποιήσαμε δια ζώσης συναντήσεις και online μέσα στο κανάλι μας στο Discord.
 
-Από εμάς έγιναν οι εξής επιλογές:
-1. Το xbox adaptive controller ![Το xbox adaptive controller](https://user-images.githubusercontent.com/114947797/197394366-e4578b5c-8565-4b06-9558-77700812d485.png) 
+Από εμένα έγιναν οι εξής επιλογές:
+1. Οptima Joystick
+
+![images thumb](https://github.com/DimitriosXenidis/images/blob/master/optima-joystick%20-%20thumb..jpg)
+
+- [_gallery](https://github.com/DimitriosXenidis/_gallery/blob/master/OptimaJoystick.md)
+- [images](https://github.com/DimitriosXenidis/images/blob/master/optima-joystick.jpg) 
 
 
-και 2. Το ps5 με τα accessibility features  
-![Το ps5 με τα accessibility features](https://user-images.githubusercontent.com/114947797/197394531-5bb17900-95d9-4cd9-b410-769725d4232c.png)
+2. VoiceOver της Apple
+  
+![image thumb](https://github.com/DimitriosXenidis/images/blob/master/VoiceOver-apple-thumb.png)
 
-έγιναν fork τα σχετικά αποθετήρια προς τον οργανισμό μας και στην συνέχεια από τον οργανισμό προς τα μέλη της ομάδας.
+- [_gallery](https://github.com/DimitriosXenidis/_gallery/blob/master/VoiceOver.md)
+- [images](https://github.com/DimitriosXenidis/images/blob/master/VoiceOver-apple.png)
+
+ έγιναν fork τα σχετικά αποθετήρια προς τον οργανισμό μας και στην συνέχεια από τον οργανισμό προς τα μέλη της ομάδας.
 
 ### Παραδοτέο 4
 
